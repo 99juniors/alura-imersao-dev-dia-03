@@ -35,6 +35,11 @@ body {
   right: 10px;
 }
 
+#tentativas,
+#tentativas-label {
+  color: white;
+}
+
 @media (max-height: 500px) {
   body {
     min-height: 800px;
